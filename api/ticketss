@@ -1,0 +1,9 @@
+[
+	{
+		"id": "1",
+		"firstname": "Bob",
+		"lastname": "Hope",
+		"ticket_code": "http://www.salsaverdict.co.uk/",
+		"redeemed": false
+	}
+]
